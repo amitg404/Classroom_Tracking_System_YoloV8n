@@ -2,8 +2,6 @@
 
 An AI-powered application that monitors student movement within designated zones using computer vision. This system helps educators track student presence and movement patterns in classroom settings.
 
-![Classroom Tracking Demo](https://github.com/amitg404/Classroom_Tracking_System_YoloV8n.git)
-
 ## Features
 
 - **Real-time Person Detection**: Uses YOLO object detection to identify people in video streams
