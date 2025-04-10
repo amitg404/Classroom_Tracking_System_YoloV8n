@@ -2,7 +2,7 @@
 
 An AI-powered application that monitors student movement within designated zones using computer vision. This system helps educators track student presence and movement patterns in classroom settings.
 
-![Classroom Tracking Demo](https://github.com/yourusername/classroom-tracking/raw/main/demo.gif)
+![Classroom Tracking Demo](https://github.com/amitg404/Classroom_Tracking_System_YoloV8n.git)
 
 ## Features
 
@@ -25,8 +25,8 @@ An AI-powered application that monitors student movement within designated zones
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/classroom-tracking.git
-cd classroom-tracking
+git clone https://github.com/amitg404/Classroom_Tracking_System_YoloV8n.git
+cd Classroom_Tracking_System_YoloV8n
 
 # Install dependencies
 pip install -r requirements.txt
